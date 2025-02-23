@@ -19,7 +19,7 @@ public class Title extends JPanel implements KeyListener {
     
     
     public Title(WindowGame window){
-                instructions = ImageLoader.loadImage("/arrow.png");
+                instructions = ImageLoader.loadImage("arrow.png");
         timer = new Timer(1000/60, new ActionListener(){
 
             @Override
