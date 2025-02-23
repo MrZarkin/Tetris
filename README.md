@@ -1,7 +1,7 @@
 # TETRIS JAVA
 ## About
 
-To help you understand the code and find your way around, here is a quick review of the most important passages:
+To help you understand the code and find your way around, here is a quick review of the most important passages: (TO DO)
 
 ## Requirements
 
